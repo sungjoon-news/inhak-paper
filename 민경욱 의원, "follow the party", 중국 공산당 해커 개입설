@@ -1,0 +1,58 @@
+<html>
+<head>
+	<title>민경욱 의원, "follow the party", 중국 공산당 해커 개입설</title>
+	<meta charset="utf-8">
+	<style>
+
+	</style>
+</head>
+<body>
+	<h1><a href="뉴스홈.html" style="color:red;text-decoration:underline">인학신문</a></h1>
+	<br><br>
+<h2>민경욱 의원, "follow the party", 중국 공산당 해커 개입설</h2>
+<ol>취재 / 촬영 / 집필 / 투고 허준명</ol>
+<p>
+민경욱 의원이  어제 국회 소통관 기자회견서 총선 개표 조작의혹을 제기하며 나온 "follow the party"라는 문구에도 관심이 쏠리고 있다.<br>
+이날 민 의원은 국회 소통관 어귀에서 "선거가 끝난 후의 투표용지는 보관되어야 한다.", "파쇄되어선 안 된다."라며, 중국 공산당 해커가 개입했다는 것을<br>
+주장하였다. 민 의원은 "전산 숫자의 배열을 찾아내 2진법으로 푼 뒤 앞에 0을 붙여서 문자로 변환시켰더니 'FOLLOW THE PARTY'라는 구호가 나왔다"라고<br>
+이 구호가 나온 경위를 설명하였다. "이번 부정선거를 획책한 프로그래머는 공개적으로 자랑할 수 없는 일이기에 자기만 아는 표식을<br>
+무수한 숫자들의 조합에 흩뿌려 놓았다. 그걸 알아냈다","천재 해커가 자기만 알아볼 수 있게 만든 것을 다빈치코드처럼 누가 발견한 것"이라고 주장했다.<br>
+또한 민 의원은 전산조작으로 선거 당일득표 50% 이상의 유리한 지역에서 50% 미만의 지역에 표를 보내어 불리한 곳을 유리하게 만들었다고 덧붙였다.<br>
+이동 시키는 표 값은 피보나치수열로 만들어진 숫자로, 무작위 순위를 2진법으로 변환하고 앞에 0을 붙여서 문자로 변환하면 "Follow the party"라는 문구가<br>
+나온다고 주장했다. 중국 공산당의 구호인 "당과 영원히 함께 가자"와 비슷한 것으로 보아 당의 힘이 강한 중국의 해커가 조작한  것이라고 주장했다.<br>
+"통합당의 사전투표는 건드리지 않고 민주당의 사전투표 수를 조작해 실제 결과와 표 차이는 통합당이 아닌 민주당 표에서 발생한다."며 주장을 이어나갔다.<br>
+이외에도 민 의원은 ""follow the party"외에 영어로 된 문장이 하나 더 나온다. 그것도 (부정선거의) 큰 단서가 될 것이다. 다음 기회에 발표하겠다"고<br>
+예고했다.
+</p>
+<br><br>
+2020-04-27
+허준명 기자 joonjoon06@naver.com
+<br><br>
+ⓒ인학신문  (무단복제 및 전재, 재배포를 금지합니다)
+
+<p>
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://seongjunnyuseu.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+							</p>
+</body>
+</html>

@@ -1,0 +1,145 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+ 
+<title>&#54616;&#49457;&#51456;&#51032; &#49548;&#49688; &#54032;&#48324;&#44592;</title>
+ 
+
+
+
+
+
+
+
+
+</head>
+ 
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="800" border="10" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+
+		<td width="133" bgcolor="#00ACEE" valign="top">
+			
+      		
+		</td>
+		
+	
+  
+	
+    
+	
+    <td valign="top"> 
+    
+
+
+<br>
+      <script language="JavaScript">
+
+<!-- Begin
+
+function calculate(form) {
+
+var num=parseInt(form.number.value);
+
+if (isNaN(num) || num < 0) {
+
+form.result.value=(form.number.value + " 유효하지 않은 수입니다");
+
+}
+
+if (num == 1) {
+
+form.result.value=("1은 소수가 아닙니다");
+
+}
+if (num == 0) {
+
+form.result.value=("0은 유요하지 않은 수입니다");
+
+}
+if (num == 2) {
+
+form.result.value=("2는 소수입니다");
+}
+
+
+
+for (var i=2;i<num;i++) {
+
+if (num % i == 0) {
+
+var prime="yes";
+
+form.result.value=(num + "은 합성수입니다.  " + i + "로 나누어집니다.");
+
+num = num + 1
+
+}
+
+if (num % i != 0) var prime="no";
+
+}
+
+if (prime == "no") {
+form.result.value=(num + "은 소수입니다");
+break;
+}
+} 
+
+
+</script>
+      <p align="left"> 
+      </p><div align="left"> 
+        <table width="100%" border="0" cellspacing="0" cellpadding="2">
+          <tbody><tr> 
+            <td> 
+              <div align="left"><font size="6"><font size="+2" align="RIGHT" color="#0000FF"><font color="#00800" size="+3">&#49457;&#51456;&#51060;&#51032; &#49548;&#49688; &#54032;&#48324;&#44592;</font></font><br>
+                </font> 
+                <table border="0" width="486" cellpadding="3" cellspacing="0">
+                  <tbody><tr> 
+                    <td>&#54032;&#48324;&#54616;&#44256; &#49910;&#51008; &#49688;&#47484; &#51077;&#47141;&#54616;&#44256; &#54032;&#48324; &#48260;&#53948;&#51012; &#45580;&#47084; &#49548;&#49688;&#51064;&#51648; &#50500;&#45772;&#51648; &#50508;&#50500;&#48372;&#49464;&#50836;!</td>
+                  </tr>
+                </tbody></table>
+              </div>
+              <form name="form">
+                <div align="left"> 
+                  <p>&#49707;&#51088; &#51077;&#47141; : <input type="text" name="number" size="10">
+                    <br>
+                    <input type="button" value="&#54032;&#48324;&#54616;&#44592;" onclick="calculate(this.form)" name="button">
+                    <input type="text" name="result" size="45" value="">
+                    <br>
+                  </p>
+                </div>
+              </form>
+            </td>
+          </tr>
+          <tr> 
+            <td>&#50577;&#51032; &#51221;&#49688;&#47564; &#51077;&#47141;&#54644;&#51452;&#49464;&#50836;</td>
+          </tr>
+        </tbody></table>
+      </div>
+      
+      
+      </td>
+	
+    
+  </tr>
+  
+  
+</tbody></table>
+<br>
+
+
+
+</body></html>

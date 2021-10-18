@@ -73,9 +73,19 @@ if (num == 2) {
 form.result.value=("2는 소수입니다");
 }
 
-
+for (var prime == "no";i++) {
 
 for (var i=2;i<num;i++) {
+	
+if (num % i != 0) var prime="no";
+
+}
+
+if (prime == "no") {
+	form.result.value=(num + "은 소수입니다");
+	break;
+	
+}
 
 if (num % i == 0) {
 
@@ -83,21 +93,14 @@ var prime="yes";
 
 form.result.value=(num + "은 합성수입니다.  " + i + "로 나누어집니다.");
 
-var tmp = document.getElementById("test_obj").value;
-tmp++;
+var num = num + 1
 
 }
 
-if (num % i != 0) var prime="no";
 
-}
-
-if (prime == "no") {
-form.result.value=(num + "은 소수입니다");
-break;
-}
 } 
 
+}
 
 </script>
       <p align="left"> 

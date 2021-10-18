@@ -56,23 +56,23 @@ var num=parseInt(form.number.value);
 
 if (isNaN(num) || num < 0) {
 
-form.result.value=(form.number.value + " is not a valid number!  Try again!");
+form.result.value=(form.number.value + " 유효하지 않은 수입니다");
 
 }
 
 if (num == 1) {
 
-form.result.value=("1 is not prime by definition!");
+form.result.value=("1은 소수가 아닙니다");
 
 }
 if (num == 0) {
 
-form.result.value=("0 is not a valid number.");
+form.result.value=("0은 유요하지 않은 수입니다");
 
 }
 if (num == 2) {
 
-form.result.value=("2 is a prime number!");
+form.result.value=("2는 소수입니다");
 }
 
 
@@ -93,7 +93,7 @@ if (num % i != 0) var prime="no";
 
 }
 
-if (prime == "no") form.result.value=(num + " is prime!");
+if (prime == "no") form.result.value=(num + "은 ");
 
 } 
 

@@ -1,9 +1,7 @@
-
-<!-- saved from url=(0083)file:///C:/Users/SAMSUNG/Desktop/%EC%86%8C%EC%88%98%ED%8C%90%EB%B3%84%EA%B8%B0.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
  
 <title>&#54616;&#49457;&#51456;&#51032; &#49548;&#49688; &#54032;&#48324;&#44592;</title>
- 
+ <meta charset="utf-8">
 
 
 
@@ -67,7 +65,7 @@ form.result.value=("1은 소수가 아닙니다");
 }
 if (num == 0) {
 
-form.result.value=("0은 유요하지 않은 수입니다");
+form.result.value=("0은 유효하지 않은 수입니다");
 
 }
 if (num == 2) {
@@ -75,9 +73,19 @@ if (num == 2) {
 form.result.value=("2는 소수입니다");
 }
 
-
+for (var prime == "no";i++) {
 
 for (var i=2;i<num;i++) {
+	
+if (num % i != 0) var prime="no";
+
+
+
+if (prime == "no") {
+	form.result.value=(num + "은 소수입니다");
+	break;
+	
+}
 
 if (num % i == 0) {
 
@@ -85,18 +93,15 @@ var prime="yes";
 
 form.result.value=(num + "은 합성수입니다.  " + i + "로 나누어집니다.");
 
-break;
+
 
 }
 
-if (num % i != 0) var prime="no";
-
-}
-
-if (prime == "no") form.result.value=(num + "은 소수입니다");
 
 } 
-
+var num = num + 1
+}
+}
 
 </script>
       <p align="left"> 

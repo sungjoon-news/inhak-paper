@@ -56,8 +56,7 @@ var c=parseInt(form.c.value);
 
 풀이1 = (-b - Math.sqrt(Math.pow(b,2) - 4*a*c))/(2*a);
 풀이2 = (-b + Math.sqrt(Math.pow(b,2) - 4*a*c))/(2*a);  
-document.write("x는"+ 풀이1+"<br>");
-document.write("또는"+ 풀이2);
+form.result.value=("x는"+ 풀이1 + "또는" + 풀이2 + "입니다");
 	
 }
 </script>
